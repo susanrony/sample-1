@@ -1,3 +1,6 @@
+---
+link: topics/random1
+---
 # Gratitude
 
 ## What is Gratitude?
@@ -11,5 +14,7 @@ The benefits of practicing gratitude are nearly endless. People who regularly pr
 -  _sleep better_
 -  _express more compassion and kindness, and_
 -  _even have stronger immune systems_ 
+
+[click here] {{page.link}}
 
 _Courtesy - https://www.happify.com/hd/the-science-behind-gratitude/_
