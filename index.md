@@ -15,6 +15,6 @@ The benefits of practicing gratitude are nearly endless. People who regularly pr
 -  _express more compassion and kindness, and_
 -  _even have stronger immune systems_ 
 
-[click here] {{page.link}}
+[click here] ({{page.link}})
 
 _Courtesy - https://www.happify.com/hd/the-science-behind-gratitude/_
